@@ -4,11 +4,44 @@
 ### Group Members
 
 | Name | Student ID | Responsibility |
-|------|-----------|----------------|
+|---|---|---|
 | [Pramodya Milinda] | [23da2-0252] | Student Records + Linked List |
 | [R.L.M.B.T.Ekanayaka] | [23da2-0911] | Stack + Queue |
 | [A.k.u.s.d.jayawardana] | [23da2-0519] | BST/AVL + Hashing |
 | [M.D.M.Madhushika Sandamali] | [23da2-0622] | Graph + BFS/DFS |
+
+---
+
+## Member 1 — [Pramodya Milinda] ([23da2-0252])
+
+### Responsibilities
+- Student Record implementation using Linked List
+- Managing student details (Add, Update, Delete, Search)
+
+### Contribution
+- Created student record structures and basic list management functions.
+
+---
+
+## Member 2 — [R.L.M.B.T.Ekanayaka] ([23da2-0911])
+
+### Responsibilities
+- Stack and Queue implementations
+- Data structure operations for workflow management
+
+### Contribution
+- Implemented Stack and Queue utilities used across the project.
+
+---
+
+## Member 3 — [A.k.u.s.d.jayawardana] ([23da2-0519])
+
+### Responsibilities
+- BST/AVL Tree implementations
+- Hashing structures for data retrieval
+
+### Contribution
+- Developed tree algorithms and hashing mechanisms for fast searching.
 
 ---
 
@@ -31,9 +64,3 @@
 - Implemented `displayConnections()` to show the campus network
 - Implemented `bfs()` using Queue
 - Implemented `dfs()` using recursion
-- Integrated graph menu (options 10–15) into `Main.java`
-- Tested all graph operations including edge cases (duplicate locations, missing locations, invalid connections)
-
-### Files
-- `Graph.java`
-- (Main.java graph menu section)
