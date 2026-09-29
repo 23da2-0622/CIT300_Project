@@ -1,11 +1,11 @@
-# 🎓 CIT300 Graded Practical Assignment 1
+#  CIT300 Graded Practical Assignment 1
 ## University Student Record and Campus Route Management System
 
 A comprehensive Java-based application designed to manage university student records and navigate campus routes efficiently using advanced data structures and algorithms.
 
 ---
 
-## 🛠️ Technologies & Data Structures Used
+##  Technologies & Data Structures Used
 * **Java** (Object-Oriented Programming)
 * **Linked List** (Student Records Management)
 * **Stack & Queue** (Workflow & Operations)
@@ -14,7 +14,7 @@ A comprehensive Java-based application designed to manage university student rec
 
 ---
 
-## 👥 Project Team & Contributions
+##  Project Team & Contributions
 
 | Name | Student ID | Core Responsibilities |
 | :--- | :--- | :--- |
@@ -25,7 +25,7 @@ A comprehensive Java-based application designed to manage university student rec
 
 ---
 
-## 📋 Detailed Member Contributions
+##  Detailed Member Contributions
 
 ### 1. Pramodya Milinda ([23da2-0252])
 * **Responsibilities:**
