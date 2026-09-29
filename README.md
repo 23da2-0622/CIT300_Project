@@ -5,9 +5,9 @@
 
 | Name | Student ID | Responsibility |
 |------|-----------|----------------|
-| [Pramodya Milinda] | [23da2-0] | Student Records + Linked List |
-| [Dulshan] | [23da2-0] | Stack + Queue |
-| [Bimal] | [23da2-0] | BST/AVL + Hashing |
+| [Pramodya Milinda] | [23da2-0252] | Student Records + Linked List |
+| [R.L.M.B.T.Ekanayaka] | [23da2-0911] | Stack + Queue |
+| [A.k.u.s.d.jayawardana] | [23da2-0519] | BST/AVL + Hashing |
 | [M.D.M.Madhushika Sandamali] | [23da2-0622] | Graph + BFS/DFS |
 
 ---
